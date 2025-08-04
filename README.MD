@@ -49,4 +49,11 @@ ollama pull llama3.1:latest
 ```
 ### You may replace llama3.1:latest with any other supported model.
 
+▶️ Run the Chatbot
+```
+python main.py
+```
+Then start chatting in Uzbek.
+
+
 
