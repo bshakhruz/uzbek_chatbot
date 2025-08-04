@@ -52,11 +52,11 @@ Download and install from the official page:
 
 ➡️ https://ollama.com/download
 
-4. Pull the LLM model
+##4. Pull the LLM model
 ```bash
 ollama pull llama3.1:latest
 ```
-### You may replace llama3.1:latest with any other supported model.
+You may replace llama3.1:latest with any other supported model.
 
 ▶️ Run the Chatbot
 ```
