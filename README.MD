@@ -14,18 +14,25 @@ This is a simple terminal-based chatbot that communicates in **Uzbek** using loc
 
 ## 🔧 Setup Instructions
 
-### 1. Create and activate a virtual environment (optional but recommended)
+### 1. Create and activate a virtual environment
 
 <details>
 <summary>Windows</summary>
 
 ```bash
 python -m venv venv
+```
+```bash
 venv\Scripts\activate
-</details> <details> <summary>Linux/macOS</summary>
-bash
-Copy
-Edit
+``` 
+</details>
+
+<details> 
+<summary>Linux/macOS</summary>
+```bash
 python3 -m venv venv
+```
+```bash
 source venv/bin/activate
+```
 </details>
