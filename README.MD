@@ -18,10 +18,11 @@ This is a simple terminal-based chatbot that communicates in **Uzbek** using loc
 
 <details>
 <summary>Windows</summary>
-
+##1.Create Virtual Environment
 ```bash
 python -m venv venv
 ```
+##2. Active 
 ```bash
 venv\Scripts\activate
 ``` 
