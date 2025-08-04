@@ -11,10 +11,19 @@ This is a simple terminal-based chatbot that communicates in **Uzbek** using loc
 - Pulled LLM model (e.g., `llama3.1:latest`)
 
 ---
+## 📥 Clone the Repository
+
+```bash
+git clone https://github.com/bshakhruz/uzbek_chatbot.git
+```
+then
+```
+cd uzbek_chatbot
+```
 
 ## 🔧 Setup Instructions
 
-### 1. Create and activate a virtual environment
+## 1. Create and activate a virtual environment
 
 <details>
 <summary>Windows</summary>
