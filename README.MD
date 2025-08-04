@@ -20,20 +20,16 @@ This is a simple terminal-based chatbot that communicates in **Uzbek** using loc
 <summary>Windows</summary>
 ##1.Create Virtual Environment
 ```bash
-python -m venv venv
-```
+python -m venv venv```
 ##2. Active 
 ```bash
-venv\Scripts\activate
-``` 
+venv\Scripts\activate``` 
 </details>
 
 <details> 
 <summary>Linux/macOS</summary>
 ```bash
-python3 -m venv venv
-```
+python3 -m venv venv```
 ```bash
-source venv/bin/activate
-```
+source venv/bin/activate```
 </details>
