@@ -52,7 +52,7 @@ Download and install from the official page:
 
 ➡️ https://ollama.com/download
 
-##4. Pull the LLM model
+## 4. Pull the LLM model
 ```bash
 ollama pull llama3.1:latest
 ```
