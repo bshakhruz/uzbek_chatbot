@@ -38,7 +38,7 @@ source venv/bin/activate```
 ```bash
 pip install -r requirements.txt
 ```
-##3. Install Ollama
+## 3. Install Ollama
 Download and install from the official page:
 
 ➡️ https://ollama.com/download
@@ -47,6 +47,6 @@ Download and install from the official page:
 ```bash
 ollama pull llama3.1:latest
 ```
-###You may replace llama3.1:latest with any other supported model.
+### You may replace llama3.1:latest with any other supported model.
 
 
