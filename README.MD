@@ -9,6 +9,7 @@ This is a simple terminal-based chatbot that communicates in **Uzbek** using loc
 - Python 3.8 or higher
 - [Ollama](https://ollama.com/download) installed on your OS (Windows/macOS/Linux)
 - Pulled LLM model (e.g., `llama3.1:latest`)
+I used this model because it is multilingual and is able to understand and generate in Uzbek language.
 
 ---
 ## 📥 Clone the Repository
