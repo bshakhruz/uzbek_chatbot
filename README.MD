@@ -64,5 +64,8 @@ python main.py
 ```
 Then start chatting in Uzbek.
 
+## Here is example:
+
+
 
 
